@@ -1,5 +1,5 @@
-<img src="/images/deane.jpg">
-<p></p><b>✨## Hi there, I'm Deane 🌈✨</b></p>
+<img src="/deane.jpg" width="100" >
+<p></p><b>✨## Hi there, I'm Deane 🌈✨</b></p><p></p></p></p></p>
 
 <p>Graphic Designer - Federal Universety of Pernambuco🏆</p>
 <p>Passionate about machine learning, programming</p>
