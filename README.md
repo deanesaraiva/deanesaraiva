@@ -1,4 +1,3 @@
-<img src="/deane.jpg" width="100" >
 <p></p><b>✨## Hi there, I'm Deane 🌈✨</b></p><p></p></p></p></p>
 
 <p>Graphic Designer - Federal Universety of Pernambuco🏆</p>
