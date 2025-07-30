@@ -1,23 +1,37 @@
-<p></p><b>✨## Hi there, I'm Deane 🌈✨</b></p><p></p></p></p></p>
 
-<p>Graphic Designer - Federal Universety of Pernambuco🏆</p>
-<p>Passionate about machine learning, programming</p>
-<p>Candidate of student of Alura</p>
+<img width="1584" height="396" alt="DEANE" src="https://github.com/user-attachments/assets/c7c345dc-1c19-415d-8d0a-7505deda89e0" />
 
-Languages and tool 
+# Designer por formação | TI por paixão 
+* [Resumo](#resumo)
+* [Languages & Tools](#languages-tools)
+* [Contatos](#contatos)
+
+<h2 align="left">Resumo</h2> 
+<p>Formada em Design Gráfico pela UFPE, com
+ Know How em comunicação, já atuei
+ em todas as regiões brasileiras e no exterior.
+ Com perfil de liderança, proatividade e experiência
+ em na criação e coordenação de
+ Marketing, busco aprender a todo instante.
+O mundo é digital, e aqui inicio meus passos em Backend e IA.</p>
+<h3 align="left">Candidate of student of Alura</h3>
+<p></p>
+
+<h1 align="left">Languages and tool  </h1> 
 <div>
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original-wordmark.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/photoshop/photoshop-original.svg" width="40" height="40"/>
 
 </div>
 
-Contatos:
+<h1 align="left">Contatos</h1>
 <div>
 
 <a href="https://instagram.com/portifoliodeanesaraiva?igsh=MpleXXV5ejBqcDQwa==" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
 <a href = "mailto:contato@deanesaraiva"><img loading="lazy" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 <a href="https://www.linkedin.com/in/deanesaraivacarvalho" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
 </div>
+
 
 <div>
 <a href="https://github.com/deanesaraiva">
